@@ -242,6 +242,11 @@ h4 {
     font-size: 20px;
 }
 
+h5 {
+    color: white;
+    text-align: left;
+}
+
 p {
     color: #86878b;
     text-align: left;
@@ -351,7 +356,7 @@ p{
 
         .slider-holder
         {
-            width: 700px;
+            width: 600px;
             height: 400px;
             margin-left: auto;
             margin-right: auto;
@@ -409,4 +414,10 @@ p{
             width: 10px;
             border-radius: 5px;
             background-color: yellow;
-        }
+}
+ 
+iframe {
+    width: 600px;
+    height:500px;
+}
+
